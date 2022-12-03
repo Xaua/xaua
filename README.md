@@ -6,6 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-original.svg"/>
+  <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/go/go-original.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg"/>
   <img align="center" height="30" width="40" src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg"/>
